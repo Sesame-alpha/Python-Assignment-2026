@@ -49,10 +49,6 @@ In this section the use of lists and tuples is replaced with the use of dictiona
 13. Function to view all subject grades it would stop if subject entered is invalid or if gradebook is empty else will display each student's grade for the chosen subject.
 14. Function to display all students and their marks stops if gradebook is empty else prints out student names,their grades per subject and personal average will then print the maximun and minimum grdaes for each subject.
 15. A main menu Gradebook interface is what the users interact with to choose what specific function duty they want to perform .
-Setup Instructions
-1. Make sure Python is installed on your machine
-2. Open the .py file for the relevant section in PyCharm or any Python editor
-3. Run the file 
 
 
 
